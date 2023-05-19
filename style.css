@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Rubik Pixels', cursive;
+font-family: 'Schibsted Grotesk', sans-serif;
+color: rgb(31, 3, 3);
+}
+.container{
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+    height: 100%;
+}
+.pp{
+    height: 110px;
+    width:90px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    float: left;  
+    padding: 2px;
+      
+}
+.pp:hover{
+    opacity: 0.3;
+    cursor: wait;
+}
+.bio{
+   float: left;
+   padding: 20px;
+   text-shadow: 2px 2px 5px rgb(2, 111, 111);
+}
+.bio:hover{
+    cursor: pointer;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+    
+
+.h-contact {
+    float: right;
+    text-align: left;
+    padding: 20px;
+    
+}
+.h-contact a{
+    text-decoration: none;
+    color: #11999e;
+    font-size: 20px;
+}
+.h-contact a:hover{
+    color: tomato;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin-top: 10px;
+    border-bottom: none;
+}
+/* header  end */
+
+/* personal  section start */
+
+#content{
+ margin-bottom: 30px;
+}
+.left{
+float: left;
+width: 30%;
+margin-top: 10px;
+}
+.right{
+float: left;
+width:70%;
+margin-top: 10px;
+
+}
+.div-c{
+    clear: both;
+}
+.a1{
+    border: 1px solid rgba(146, 203, 3, 0.763);
+    border-bottom: none;
+    width: 100%;
+    margin: 15px auto;
+    opacity: 02;
+}
+.para{
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+.para:hover{
+    font-size: 20px;
+    color: tomato;
+}
+
+/* skilla start */
+
+.skills{
+
+}
+
+.ld{
+    width: 30%;
+    float: left;
+    margin-top: 5px;
+}
+
+
+.rd{
+    width: 70%;
+    float: right;
+    margin-top: 5px;
+}
+.para2{
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+.para2:hover{
+    color: tomato;
+    font-size: 20px;
+}
+.dc{
+    clear: both;
+}
+.underline{
+    width: 100%;
+    border: 1px solid green;
+    border-bottom: none;
+    margin-top: 20px;
+}
+/* skill end */
+
+.academic-qualification{
+    margin-top: 5px;
+
+ }
+
+
+.a2{
+    width: 30%;
+    float: left;
+}
+.a3{
+    margin-top: 20px;
+}
+.my:hover{
+    color: tomato;
+}
+
+.my{
+    margin-top: 10px;
+}
+.my-style{
+  margin-top: 10px; 
+}
+.my-style:hover{
+    color: tomato;
+}
+.under-line{
+    width: 100%;
+    border: 1px solid green;
+    border-bottom: none;
+    margin-top: 20px;
+}
+
+/* educational section start */
+
+.left-div{
+    float: left;
+    width: 30%;
+}
+
+.template-left{
+    float: left;
+    width: 40%;
+}
+
+.education-section{
+    margin-top: 10px;
+}
+
+.div-clear11{
+    clear: both;
+}
+
+
+/* footer start */
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 30%;
+    margin-top: 15px;
+}
+.bottom-container a{
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-decoration: none;
+}
+.bottom-container p{
+    color: #e4f9f5;
+    margin-top: 20px;
+}
+
+
+
